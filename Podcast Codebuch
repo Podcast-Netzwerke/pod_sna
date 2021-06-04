@@ -1,6 +1,6 @@
 # Datensatz Podcasts
 Podcast Codebuch
-erstellt von Alisa Rathke (ar149@hdm-stuttgart.de)
+erstellt von Alisa Rathke (ar149@hdm-stuttgart.de), Lola Schiel (ls191@hdm-stuttgart.de), Laureta Nrecaj (ln030@hdm-stuttgart.de), Judith Hartmann (jh254@hdm-stuttgart.de)
 
 ## Inhalt
 - Edges.csv (Edgelist)
@@ -74,7 +74,8 @@ Beruf des/der Moderator*in
 **type**    
 Unterscheidung zwischen Akteur und Event
 1 = Akteur   
-2 = Event
+2 = Podcast/Show
+3 = Produktionsfirma
   
 **year**      
 Erscheinungsjahr des Podcasts
