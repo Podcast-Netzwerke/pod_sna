@@ -22,9 +22,10 @@ Abkürzungen der Namen
 4 = Mehrere gemeinsame Sendungen
 
 **relation**
-1 = angestellt bei einer Produktionsfirma
+1 = Angestelltenverhältnis bei einer Produktionsfirma
 2 = Moderator - Gast
-3 = zwei Moderatoren
+3 = zwei Moderatoren der gleichen Show
+4 = zwei Moderatoren unterschiedlicher Shows
 
 
 # NODE-Attribute  
@@ -117,8 +118,8 @@ Zuhörer pro Woche
 Zyklus, in dem eine neue Folge hochgeladen wird
 1 = täglich
 2 = mehrmals wöchentlich
-3 = 1x wöchentlich
-4 = 14-tägig
+3 = einmal wöchentlich
+4 = alle zwei Wochen
 5 = seltener
 
 **duration**
