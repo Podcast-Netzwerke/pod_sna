@@ -74,9 +74,10 @@ Beruf des/der Moderator*in
 
 **type**    
 Unterscheidung zwischen Akteur und Event
-1 = Akteur   
+1 = Akteur*in   
 2 = Podcast/Show
-3 = Produktionsfirma
+3 = Produktion
+4 = Verlag/Label
   
 **year**      
 Erscheinungsjahr des Podcasts
