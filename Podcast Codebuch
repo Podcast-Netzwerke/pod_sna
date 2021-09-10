@@ -22,10 +22,12 @@ Abkürzungen der Namen
 4 = Mehrere gemeinsame Sendungen
 
 **relation**
-1 = Angestelltenverhältnis zu Label/Produktionsfirma
+1 = Moderator - Label/Produktionsfirma
 2 = Moderator - Gast oder umgekehrt
 3 = zwei Moderatoren der gleichen Show
 4 = zwei Moderatoren unterschiedlicher Shows
+5 = Podcast/Show - Label/Produktionsfirma
+
 
 
 # NODE-Attribute  
