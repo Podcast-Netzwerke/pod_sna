@@ -82,11 +82,9 @@ Beruf des/der Moderator*in
 9 = Video-/Fernseh-Produzent*in
 
 **type**    
-Unterscheidung zwischen Akteur und Event
+Unterscheidung zwischen Akteur und Organisation
 1 = Akteur*in   
-2 = Podcast/Show
-3 = Produktion
-4 = Verlag/Label
+2 = Organisation
   
 **year**      
 Erscheinungsjahr des Podcasts
