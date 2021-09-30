@@ -85,6 +85,14 @@ Beruf des/der Moderator*in
 Unterscheidung zwischen Akteur und Organisation
 1 = Akteur*in   
 2 = Organisation
+
+**medium**
+1 = Podcast
+2 = Youtubekanal
+3 = Radiosender
+4 = Magazin
+5 = (Online-)Zeitung
+6 = TV-Sendung
   
 **year**      
 Erscheinungsjahr des Podcasts
