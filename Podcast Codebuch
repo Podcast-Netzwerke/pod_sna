@@ -17,17 +17,17 @@ Abkürzungen der Namen
 
 **weight**   
 1 = folgen sich auf Instagram
-2 = Gast bei einer Show/einem Podcast
+2 = war Gast/hat als Gast empfangen
 3 = Gemeinsamer Podcast
 4 = Mehrere gemeinsame Sendungen
 
 **relation**
-1 = Moderator - Label/Produktionsfirma
-2 = Moderator/Show - Gast oder umgekehrt
-3 = zwei Moderatoren der gleichen Show
-4 = zwei Moderatoren unterschiedlicher Shows
-5 = Podcast/Show - Label/Produktionsfirma
-6 = Podcast/Show - Moderator
+1 = moderiert
+2 = gibt heraus
+3 = arbeitet bei
+4 = ist beteiligt an
+5 = tritt auf
+
 
 # NODE-Attribute  
   
