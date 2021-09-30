@@ -29,7 +29,6 @@ Abkürzungen der Namen
 5 = Podcast/Show - Label/Produktionsfirma
 6 = Podcast/Show - Moderator
 
-
 # NODE-Attribute  
   
 **id**  
@@ -61,6 +60,10 @@ Definiert das Genre des Podcasts/der Show
 10 = Kultur
 11 = Hörspiele
 12 = Interviews, Kunst und Unterhaltung
+
+**study**
+Ausbildung der Moderator*innen
+1 = 
 
 **work**   
 Beruf des/der Moderator*in
@@ -103,40 +106,5 @@ Alter des/der Podcaster*in
 8 = 55-59 
 9 = 60-65    
 
-**listener**  
-Zuhörer pro Woche
-1 = 1-9.999
-2 = 10.000-19.999 
-3 = 20.000-39.999
-4 = 40.000-59.999
-5 = 60.000-79.999
-6 = 80.000-99.999
-7 = 100.000-399.999
-8 = 400.000-699.999
-9 = 700.000-999.999
-10 = 1.000.000-1.199.999
-11 = 1.200.000-1.500.000
-
-**uploads**
-Zyklus, in dem eine neue Folge hochgeladen wird
-1 = täglich
-2 = mehrmals wöchentlich
-3 = einmal wöchentlich
-4 = alle zwei Wochen
-5 = seltener
-
-**duration**
-Dauer einer Podcast-Folge
-1 = 0-10min
-2 = 11-20min
-3 = 21-30min
-4 = 31-40min
-5 = 41-50 min
-6 = 51-60min
-7 = 61-70min
-8 = 71-80min
-9 = 81-90min
-10 = 91-100min
-11 = 101-120min
 
 ##
