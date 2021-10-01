@@ -76,10 +76,11 @@ Beruf des/der Moderator*in
 3 = Schauspieler*in
 4 = Autor*in
 5 = Comedian*Comedienne
-6 = Selbstständige*r  
-7 = Unternehmer*in
+6 = Selbstständige*r im Medienbereich  
+7 = Unternehmer*in im Medienbereich
 8 = Sänger*in
 9 = Video-/Fernseh-Produzent*in
+10 = Außerhalb des Medienbereichs
 
 **type**    
 Unterscheidung zwischen Akteur und Organisation
