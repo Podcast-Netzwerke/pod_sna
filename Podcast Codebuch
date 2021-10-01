@@ -22,9 +22,9 @@ Abkürzungen der Namen
 
 **relation**
 
-1 = produziert
-2 = angestellt bei
-3 = macht mit
+1 = steht in variabler Verbindung zu (z.B. Gast oder ist Produktionsfirma)
+2 = angestellt/arbeitet bei (z.B. Redakteur bei Zeitung)
+3 = produziert (z.B. Moderator*in vom Podcast oder Chefredakteur)
 
 
 # NODE-Attribute  
