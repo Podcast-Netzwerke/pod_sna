@@ -20,7 +20,7 @@ Abkürzungen der Namen
 2 = Gemeinsames Projekt
 3 = Mehrere gemeinsame Projekte
 
-**relationship**
+**relation**
 
 1 = steht in variabler Verbindung zu (z.B. Gast oder ist Produktionsfirma)
 2 = angestellt/arbeitet bei (z.B. Redakteur bei Zeitung)
@@ -35,36 +35,40 @@ Abkürzungen der Namen
 **name**
 Name oder Bezeichnung des Knotens
 
-**name2** 
-Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
+**type**    
+Unterscheidung zwischen Akteur und Organisation
+1 = Akteur*in   
+2 = Organisation
+
+**medium**
+Definiert die Art der Organisation (type==2)
+1 = Podcast
+2 = Youtubekanal
+3 = Radiosender oder Radiosendung
+4 = Magazin
+5 = (Online-)Zeitung
+6 = TV-Sendung oder TV-Sendung
 
 **sex**     
-Definiert das Geschlecht
+Definiert das Geschlecht der Akteur*innen
 1 = weiblich  
 2 = männlich  
 3 = divers
-  
-**genre***     
-Definiert das Genre des Podcasts/der Show
-1 = Comedy  
-2 = Nachrichten und Politik
-3 = True Crime
-4 = Wissen
-5 = Lifestyle und Gesundheit
-6 = Business und Technologie
-7 = Sport und Freizeit
-8 = Gaming
-9 = Musik
-10 = Kultur
-11 = Hörspiele
-12 = Interviews, Kunst und Unterhaltung
 
-**oeffentlichprivat**
-1 = öffentlich-rechtlich
-2 = privat
+**ybirth**
+Geburtsjahr der Akteur*innen
+1 = 2003-1998
+2 = 1997-1992
+3 = 1991-1986
+4 = 1985-1980
+5 = 1979-1974
+6 = 1973-1968
+7 = 1967-1962
+8 = 1961-1956
+9 = 1954-1949
 
 **study**
-Ausbildung der Moderator*innen
+Abgeschlossene Ausbildung der Moderator*innen
 1 = Kommunikationsstudium (z.B. Journalismus oder Medienwissenschaften)
 2 = Ausbildung im Medienbereich
 3 = Quereinsteiger*in
@@ -82,18 +86,25 @@ Beruf des/der Moderator*in
 9 = Video-/Fernseh-Produzent*in
 10 = Außerhalb des Medienbereichs
 
-**type**    
-Unterscheidung zwischen Akteur und Organisation
-1 = Akteur*in   
-2 = Organisation
+**oeffentlichprivat**
+Definiert, ob das Medium öffentlich-rechtlich oder privat finanziert wird
+1 = öffentlich-rechtlich
+2 = privat
 
-**medium**
-1 = Podcast
-2 = Youtubekanal
-3 = Radiosender oder Radiosendung
-4 = Magazin
-5 = (Online-)Zeitung
-6 = TV-Sendung oder TV-Sendung
+**genre***     
+Definiert das Genre des Podcasts/der Show
+1 = Comedy  
+2 = Nachrichten und Politik
+3 = True Crime
+4 = Wissen
+5 = Lifestyle und Gesundheit
+6 = Business und Technologie
+7 = Sport und Freizeit
+8 = Gaming
+9 = Musik
+10 = Kultur
+11 = Hörspiele
+12 = Interviews, Kunst und Unterhaltung
   
 **year**      
 Erscheinungsjahr des Podcasts
@@ -104,16 +115,5 @@ Erscheinungsjahr des Podcasts
 5 = 2019
 6 = 2020
 7 = 2021
-
-**ybirth**
-1 = 2003-1998
-2 = 1997-1992
-3 = 1991-1986
-4 = 1985-1980
-5 = 1979-1974
-6 = 1973-1968
-7 = 1967-1962
-8 = 1961-1956
-9 = 1954-1949
 
 ##
