@@ -89,10 +89,10 @@ Unterscheidung zwischen Akteur und Organisation
 **medium**
 1 = Podcast
 2 = Youtubekanal
-3 = Radiosender
+3 = Radiosender oder Radiosendung
 4 = Magazin
 5 = (Online-)Zeitung
-6 = TV-Sendung
+6 = TV-Sendung oder TV-Sendung
   
 **year**      
 Erscheinungsjahr des Podcasts
