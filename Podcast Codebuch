@@ -20,7 +20,7 @@ Abkürzungen der Namen
 2 = Gemeinsames Projekt
 3 = Mehrere gemeinsame Projekte
 
-**relation**
+**relationship**
 
 1 = steht in variabler Verbindung zu (z.B. Gast oder ist Produktionsfirma)
 2 = angestellt/arbeitet bei (z.B. Redakteur bei Zeitung)
@@ -59,7 +59,7 @@ Definiert das Genre des Podcasts/der Show
 11 = Hörspiele
 12 = Interviews, Kunst und Unterhaltung
 
-**öffentlichrechtlichprivat**
+**oeffentlichrechtlichprivat**
 1 = öffentlich-rechtlich
 2 = privat
 
