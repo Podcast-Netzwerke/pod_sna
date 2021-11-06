@@ -15,7 +15,7 @@ mtome,MTV Home,2,6,99,99,99,99,99,99,99
 prben,Pro Sieben,2,6,99,99,99,99,99,2,99
 zdneo,ZDF Neo,2,6,99,99,99,99,1,99,99
 dielt,Die beste Show der Welt,2,6,99,99,99,99,1,99,99
-joben,Joko u Klaas gegen ProSieben,2,6,99,99,99,99,1,99,99
+joben,JokoundKlaas gegen ProSieben,2,6,99,99,99,99,1,99,99
 neale,Neo Magazine Royale,2,6,99,99,99,99,1,99,99
 babie,Bastian Bielendorfer,1,99,2,4,4,3,99,99,99
 oesar,Oezcan Cosar,1,99,2,4,5,3,99,99,99
@@ -32,17 +32,17 @@ alnen,Alle gegen Einen,2,6,99,99,99,99,99,99,99
 biwdr,Bielendorfer im WDR,2,6,99,99,99,99,99,99,99
 wdr,WDR,2,6,99,99,99,99,99,1,99
 lence,Lets dance,2,6,99,99,99,99,99,99,99
-poehn,podcast null acht siebzehn,2,1,99,99,99,99,99,99,6
+poehn,Podcast NullAchtSiebzehn,2,1,99,99,99,99,99,99,6
 rtl,RTL,2,6,99,99,99,99,99,2,99
 dihow,Die Cosar Show,2,6,99,99,99,99,99,99,99
-hobby,hobbylos,2,1,99,99,99,99,1,2,7
-rezo,rezo,1,99,2,2,9,3,99,99,99
-jubam,julien bam,1,99,2,3,9,3,99,99,99
-spstu,spotify studios,2,99,99,99,99,99,99,2,99
-youmc,you media consulting,2,99,99,99,99,99,99,2,99
-bggng,beginner gegen gewinner,2,6,99,99,99,99,99,2,99
-zapp,zapp,2,4,99,99,99,99,99,2,99
-ndr,ndr fernsehen,2,6,99,99,99,99,99,1,99
+hobby,Hobbylos,2,1,99,99,99,99,1,2,7
+rezo,Rezo,1,99,2,2,9,3,99,99,99
+jubam,Julien Bam,1,99,2,3,9,3,99,99,99
+spstu,Spotify Studios,2,99,99,99,99,99,99,2,99
+youmc,You Media Consulting,2,99,99,99,99,99,99,2,99
+bggng,Beginner gegen Gewinner,2,6,99,99,99,99,99,2,99
+zapp,Zapp,2,4,99,99,99,99,99,2,99
+ndr,NDR,2,6,99,99,99,99,99,1,99
 zdf,ZDF,2,6,99,99,99,99,99,1,99
 precht,Precht,2,6,99,99,99,99,99,1,99
 alges,Alles gesagt,2,1,99,99,99,99,12,2,99
@@ -55,7 +55,7 @@ satei,Sat1,2,6,99,99,99,99,99,2,99
 jauar,Jay und Arya,2,1,99,99,99,99,1,2,5
 jasam,Jay Samuelz,1,99,2,99,9,3,99,99,99
 arlee,Arya Lee,1,99,2,99,9,3,99,99,99
-aini,ai ni /song,2,99,99,99,99,99,99,99,99
+aini,AiNi,2,99,99,99,99,99,99,99,99
 saruec,Sabine Rueckert,1,99,1,7,2,1,99,99,99
 ansen,Andreas Sentker,1,99,2,7,2,1,99,99,99
 zever,Zeit Verbrechen,2,1,99,99,99,99,3,2,4
@@ -77,7 +77,7 @@ chuka,Chips und Kaviar,2,1,99,99,99,99,1,2,99
 podkin,Podkinski,2,1,99,99,99,99,1,2,5
 paroj,Palina Rojinski,1,99,1,4,1,1,99,99,99
 dedre,Deutschland3000,2,1,99,99,99,99,1,1,5
-nuacfu,NullAchtFuenfzehn,2,1,99,99,99,99,1,2,6
+nuacfu,0815,2,1,99,99,99,99,1,2,6
 kiuco,Kino oder Couch,2,1,99,99,99,99,10,2,6
 homat,Hotel Matze,2,1,99,99,99,99,1,2,2
 apinf,Apokalypse und Filterkaffee,2,1,99,99,99,99,1,2,6
@@ -118,7 +118,7 @@ stzei,Stuttgarter Zeitung,2,5,99,99,99,99,2,2,99
 ditag,Die Tageszeitung,2,5,99,99,99,99,2,2,99
 zedoc,Zeit Doctor Magazin,2,4,99,99,99,99,99,2,99
 bild,BILD,2,5,99,99,99,99,2,2,99
-unpfa,Die Zeit – Unter Pfarrerstoechtern,2,1,99,99,99,99,10,2,99
+unpfa,DieZeit UnterPfarrerstoechtern,2,1,99,99,99,99,10,2,99
 johab,Johanna Haberer,1,99,1,8,10,3,99,99,99
 skin,Skip Intro Podcast,2,1,99,99,99,99,10,1,99
 mezib,Magazinsendung Zibb,2,6,99,99,99,99,2,1,99
@@ -126,4 +126,4 @@ rafri,Radiosender Fritz,2,3,99,99,99,99,2,1,99
 wwwoh,Youtubeshow World Wide Wohnzimmer,2,2,99,99,99,99,12,1,99
 brnex,Radiosender Bremen Next,2,3,99,99,99,99,2,1,99
 1live,Radiosender 1Live,2,3,99,99,99,99,2,1,99
-scusue,Schuld und Suehne Youtube,2,2,99,99,99,99,3,1,99
+scusue,Schuld und Suehne,2,2,99,99,99,99,3,1,99
