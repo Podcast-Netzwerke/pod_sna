@@ -3,8 +3,8 @@ Podcast Codebuch
 erstellt von Alisa Rathke (ar149@hdm-stuttgart.de), Lola Schiel (ls191@hdm-stuttgart.de), Laureta Nrecaj (ln030@hdm-stuttgart.de), Judith Hartmann (jh254@hdm-stuttgart.de)
 
 ## Inhalt
-- Edges.csv (Edgelist)
-- Nodes.csv (Nodelist)
+- Podcast_Edgelist.csv (Edgelist)
+- Podcast_Nodelist.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
 ## Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*.
@@ -15,16 +15,16 @@ erstellt von Alisa Rathke (ar149@hdm-stuttgart.de), Lola Schiel (ls191@hdm-stutt
 (eindeutige Codierung des Knoten)   
 Abkürzungen der Namen
 
-**weight**   
-1 = hat bei Projekt mitgewirkt (war z.B. Gast)
+**weight** (gibt die Beziehungsstärke ausschließlich zwischen Akteuren an, Organisationen sind mit 99 codiert)
+1 = hat bei Projekt des anderen mitgewirkt (war z.B. Gast)
 2 = Gemeinsames Projekt
 3 = Mehrere gemeinsame Projekte
 
-**relation**
+**relation** (gibt die Art der Beziehung ausschließlich zwischen Akteuren und Organisationen an)
 
-1 = steht in variabler Verbindung zu (z.B. Gast oder ist Produktionsfirma)
+1 = steht in variabler, schwacher Verbindung zu (z.B. Gast)
 2 = angestellt/arbeitet bei (z.B. Redakteur bei Zeitung)
-3 = produziert (z.B. Moderator*in vom Podcast oder Chefredakteur)
+3 = produziert (z.B. Moderator:in vom Podcast oder Chefredakteur)
 
 
 # NODE-Attribute  
@@ -37,11 +37,11 @@ Name oder Bezeichnung des Knotens
 
 **type**    
 Unterscheidung zwischen Akteur und Organisation
-1 = Akteur*in   
+1 = Akteur:in   
 2 = Organisation
 
 **medium**
-Definiert die Art der Organisation (type==2)
+Definiert die Art der Organisation (ausschließlich für type==2)
 1 = Podcast
 2 = Youtubekanal
 3 = Radiosender oder Radiosendung
@@ -50,12 +50,12 @@ Definiert die Art der Organisation (type==2)
 6 = TV-Sender oder TV-Sendung
 
 **sex**     
-Definiert das Geschlecht der Akteur*innen
+Definiert das Geschlecht der Akteur*innen (ausschließlich für type==1)
 1 = weiblich  
 2 = männlich  
 3 = divers
 
-**ybirth**
+**ybirth** (ausschließlich für type==1)
 Geburtsjahr der Akteur*innen
 1 = 2003-1998
 2 = 1997-1992
@@ -67,14 +67,14 @@ Geburtsjahr der Akteur*innen
 8 = 1961-1956
 9 = 1954-1949
 
-**study**
-Abgeschlossene Ausbildung der Moderator*innen
+**study** 
+Abgeschlossene Ausbildung der Moderator*innen (ausschließlich für type==1)
 1 = Kommunikationsstudium (z.B. Journalismus oder Medienwissenschaften)
 2 = Ausbildung im Medienbereich
 3 = Quereinsteiger*in
 
 **work**   
-Beruf des/der Moderator*in
+Beruf des/der Moderator*in (ausschließlich für type==1)
 1 = Moderator*in
 2 = Journalist*in
 3 = Schauspieler*in
@@ -87,12 +87,12 @@ Beruf des/der Moderator*in
 10 = Außerhalb des Medienbereichs
 
 **oeffentlichprivat**
-Definiert, ob das Medium öffentlich-rechtlich oder privat finanziert wird
+Definiert, ob das Medium öffentlich-rechtlich oder privat finanziert wird (ausschließlich für type==2)
 1 = öffentlich-rechtlich
 2 = privat
 
 **genre***     
-Definiert das Genre des Podcasts/der Show
+Definiert das Genre des Podcasts/der Show (ausschließlich für type==2)
 1 = Comedy  
 2 = Nachrichten und Politik
 3 = True Crime
@@ -106,8 +106,8 @@ Definiert das Genre des Podcasts/der Show
 11 = Hörspiele
 12 = Interviews, Kunst und Unterhaltung
   
-**year**      
-Erscheinungsjahr des Podcasts
+**year**
+Erscheinungsjahr des Podcasts  (ausschließlich für type==2)
 1 = 2005-2015
 2 = 2016
 3 = 2017  
